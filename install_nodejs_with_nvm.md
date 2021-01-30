@@ -5,6 +5,8 @@
 
 2] ```bash install_nvm.sh```
 
+2.1] open new session ie open new tab
+ 
 3] ```nvm ls-remote```
 
 4] ```nvm install v10.16.3```
